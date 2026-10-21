@@ -1,30 +1,29 @@
-<!-- GitHub shows the dark or the light version of each image, following the visitor's theme -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Miguel Cruz, self-taught web developer from Portugal, learning JavaScript" src="assets/header-light.svg" width="100%">
-</picture>
+<img src="assets/header.svg" alt="Miguel Cruz. Self-taught web developer from Portugal, currently learning JavaScript." width="100%">
+
+### Right now:
+
+- Working on my JavaScript certification
+- Building small JavaScript projects to practise what I learn
+- Going back to old projects and fixing what I missed
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+### Next:
+
+<img src="assets/next.svg" alt="React, TypeScript" width="100%">
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+### Tools I use:
+
+<img src="assets/tech.svg" alt="HTML, CSS, JavaScript, Git, GitHub, Netlify, VS Code" width="100%">
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 <br>
 
-## Right now
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <img alt="Learning: JavaScript certification, freeCodeCamp. Building: JavaScript projects to practise what I learn. Improving: going back to old projects and fixing what I missed. Next: first steps into frameworks." src="assets/now-light.svg" width="100%">
-</picture>
-
-## Tech I use
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
-  <img alt="HTML, CSS, JavaScript, Git, GitHub, Netlify, VS Code" src="assets/tech-light.svg" width="100%">
-</picture>
-
-<br><br>
-
-<a href="https://miguel-cruz-dev.netlify.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg">
-    <img alt="Portfolio: take a look at my work at miguel-cruz-dev.netlify.app" src="assets/portfolio-light.svg" width="100%">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://miguel-cruz-dev.netlify.app">
+    <img src="assets/portfolio-button.svg" alt="My portfolio" width="300">
+  </a>
+</p>
